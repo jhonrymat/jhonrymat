@@ -1,4 +1,1 @@
-[![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonrymat&show_icons=true&theme=tokyonight)](https://github.com/jhonrymat)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonrymat&langs_count=8&hide_progress=true&theme=tokyonight)](https://github.com/jhonrymat)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jhonrymat?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
